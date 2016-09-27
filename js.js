@@ -1,7 +1,7 @@
 var flag = false;
 
 function init() {
-	var result = new Array("THANKS", "SUPER GOLD", "GIRL FIREND");
+	var result = new Array("THANKS", "SUPER GOLD", "GIRL FRIEND", "BOY FRIEND", "IPHONE -1");
 	var mask = document.getElementById("mask");
 	var res = document.getElementById("result");
 
