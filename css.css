@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+	padding: 0;
+	user-select: none;
+}
+
+#mask {
+	background-color: transparent;
+	position: absolute;
+}
+
+#result {
+	width: 200px;
+	height: 60px;
+	line-height: 60px;
+	cursor: default;
+	text-align: center;
+	-moz-user-select: none; 
+	-webkit-user-select: none; 
+	-ms-user-select: none; 
+	user-select: none; 
+	background-color: red;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
